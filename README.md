@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KHHD
 - 👀 I’m interested in IA and data science 
-- 🌱 I'm currently a data science Student.
+- 🌱 I'm currently a Data science Student.
 - - 🌱 I’m currently learning data science and decisionn support, Machine Learning, Deep Learning, AI...
 
 <!---
